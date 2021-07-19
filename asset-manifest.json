@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/code0312/react-dynamic-humans/static/css/main.53be8b78.chunk.css",
-    "main.js": "/code0312/react-dynamic-humans/static/js/main.7321b35f.chunk.js",
-    "main.js.map": "/code0312/react-dynamic-humans/static/js/main.7321b35f.chunk.js.map",
-    "runtime-main.js": "/code0312/react-dynamic-humans/static/js/runtime-main.60aa3112.js",
-    "runtime-main.js.map": "/code0312/react-dynamic-humans/static/js/runtime-main.60aa3112.js.map",
-    "static/js/2.a0c2a4f3.chunk.js": "/code0312/react-dynamic-humans/static/js/2.a0c2a4f3.chunk.js",
-    "static/js/2.a0c2a4f3.chunk.js.map": "/code0312/react-dynamic-humans/static/js/2.a0c2a4f3.chunk.js.map",
-    "static/js/3.7790c899.chunk.js": "/code0312/react-dynamic-humans/static/js/3.7790c899.chunk.js",
-    "static/js/3.7790c899.chunk.js.map": "/code0312/react-dynamic-humans/static/js/3.7790c899.chunk.js.map",
-    "index.html": "/code0312/react-dynamic-humans/index.html",
-    "static/css/main.53be8b78.chunk.css.map": "/code0312/react-dynamic-humans/static/css/main.53be8b78.chunk.css.map",
-    "static/js/2.a0c2a4f3.chunk.js.LICENSE.txt": "/code0312/react-dynamic-humans/static/js/2.a0c2a4f3.chunk.js.LICENSE.txt"
+    "main.css": "/react-dynamic-humans/static/css/main.53be8b78.chunk.css",
+    "main.js": "/react-dynamic-humans/static/js/main.7321b35f.chunk.js",
+    "main.js.map": "/react-dynamic-humans/static/js/main.7321b35f.chunk.js.map",
+    "runtime-main.js": "/react-dynamic-humans/static/js/runtime-main.ded11327.js",
+    "runtime-main.js.map": "/react-dynamic-humans/static/js/runtime-main.ded11327.js.map",
+    "static/js/2.a0c2a4f3.chunk.js": "/react-dynamic-humans/static/js/2.a0c2a4f3.chunk.js",
+    "static/js/2.a0c2a4f3.chunk.js.map": "/react-dynamic-humans/static/js/2.a0c2a4f3.chunk.js.map",
+    "static/js/3.7790c899.chunk.js": "/react-dynamic-humans/static/js/3.7790c899.chunk.js",
+    "static/js/3.7790c899.chunk.js.map": "/react-dynamic-humans/static/js/3.7790c899.chunk.js.map",
+    "index.html": "/react-dynamic-humans/index.html",
+    "static/css/main.53be8b78.chunk.css.map": "/react-dynamic-humans/static/css/main.53be8b78.chunk.css.map",
+    "static/js/2.a0c2a4f3.chunk.js.LICENSE.txt": "/react-dynamic-humans/static/js/2.a0c2a4f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.60aa3112.js",
+    "static/js/runtime-main.ded11327.js",
     "static/js/2.a0c2a4f3.chunk.js",
     "static/css/main.53be8b78.chunk.css",
     "static/js/main.7321b35f.chunk.js"
