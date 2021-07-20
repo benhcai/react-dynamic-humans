@@ -1,7 +1,15 @@
+.App {
+  text-align: center;
+}
+
 body {
   background: linear-gradient(90deg, #7621ed, #018786);
 }
 
-.App {
-  text-align: center;
+h1 {
+  font-family: "festive";
+  color: #5ddae0;
+  font-size: 140px;
+  margin: 0px;
+  padding: 40px 0px 0px 0px;
 }

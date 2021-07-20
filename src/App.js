@@ -34,6 +34,7 @@ class App extends Component {
     );
     return (
       <div className="App">
+        <h1>The React Roster</h1>
         <SearchBox
           placeholder="Search Humans"
           handleChange={((e) => this.handleChange(e), () => console.log(this.state))}
