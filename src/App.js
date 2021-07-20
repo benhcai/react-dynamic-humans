@@ -14,7 +14,7 @@ class App extends Component {
     };
 
     // bind retuns a new function w/ this bound to the set context
-    this.handleChange.bind(this);
+    // this.handleChange.bind(this);
   }
 
   componentDidMount() {
@@ -23,9 +23,10 @@ class App extends Component {
       .then((result) => this.setState({ monsters: result }));
   }
 
-  handleChange(e) {
+  handleChange = (e) => {
+    console.log(this);
     this.setState({ searchField: e.target.value });
-  }
+  };
 
   render() {
     const { monsters, searchField } = this.state;
@@ -35,10 +36,7 @@ class App extends Component {
     return (
       <div className="App">
         <h1>The React Roster</h1>
-        <SearchBox
-          placeholder="Search humans..."
-          handleChange={((e) => this.handleChange(e), () => console.log(this.state))}
-        />
+        <SearchBox placeholder="Search humans..." handleChange={this.handleChange} />
         <CardList monsters={filteredMonsters}></CardList>
       </div>
     );

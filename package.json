@@ -2,7 +2,7 @@
   "name": "dynamic-humans",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/code0312/react-dynamic-humans",
+  "homepage": "https://code0312.github.io/react-dynamic-humans",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
