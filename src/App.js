@@ -36,7 +36,7 @@ class App extends Component {
       <div className="App">
         <h1>The React Roster</h1>
         <SearchBox
-          placeholder="Search Humans"
+          placeholder="Search humans..."
           handleChange={((e) => this.handleChange(e), () => console.log(this.state))}
         />
         <CardList monsters={filteredMonsters}></CardList>
